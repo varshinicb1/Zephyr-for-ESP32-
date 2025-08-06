@@ -1,8 +1,8 @@
 
 
-# 🚀 Zephyr RTOS on ESP32/EdgeHax IoT Board — Ultimate Guide
+# Zephyr RTOS on ESP32/EdgeHax IoT Board — Ultimate Guide
 
-## ✨ What’s This Repo?
+## What’s This Repo?
 
 A complete, reproducible guide for running **Zephyr RTOS** on ESP32/EdgeHax ESP32-4G/NavIC IoT boards.
 
