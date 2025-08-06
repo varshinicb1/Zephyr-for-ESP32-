@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# okay. now create a detailed guide for me to not forget about this. It'll go on my github repo and will have complete details, codes and guide for Zephyr on ESP32
-
-Absolutely! Here’s a **comprehensive, step-by-step guide** that you can use as a README for your GitHub, covering your Zephyr-on-ESP32 journey—including setup, common errors, fixes, shell usage, and next steps. This is designed so anyone (including your future self!) can confidently recreate your success.
 
 # 🚀 Zephyr RTOS on ESP32/EdgeHax IoT Board — Ultimate Guide
 
